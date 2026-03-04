@@ -1,0 +1,1 @@
+{"name":"meanTorrent","version":"1.0.0","private":true,"scripts":{"dev":"vite","build":"vite build","serve":"vite preview"},"dependencies":{"react":"^17.0.0","react-dom":"^17.0.0","socket.io-client":"^4.4.1"},"devDependencies":{"typescript":"^4.4.2","vite":"^2.6.4","tailwindcss":"^2.2.19"}}
